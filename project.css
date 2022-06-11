@@ -3,7 +3,7 @@ body {
     flex-direction: column;
     background-color: ;
     margin: auto;
-    flex: ;
+    flex: 1;
     
 }
 
@@ -11,7 +11,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    width: 1000px;
+    width: 900px;
     margin: 0px auto;
     padding-top: 10px;
 }
@@ -30,35 +30,32 @@ body {
     padding: 0px;
 }
 
-.fourth,
-.dark {
-    
-    flex-direction: column;
-}
-
 .dark {
 background-color: #1F2937;
 color: #F9FAF8;
 height: 400px;
+width: ;
 }
 
 .second {
     
     flex-direction: row;
     display: flex;
-    width: 1000px;
+    width: 900px;
     margin: 0px auto;
     justify-content: space-between;
+    padding: 50px 0px;
 }
 
 .paceholder1 {
     background-color: gray;
-    min-width: 200px;
+    min-width: 400px;
 }
 .third {
     display: flex;
     background-color: #F9FAF8;
     flex-direction: column;
-    center
 }
-second
+.second .intro {
+    max-width: 300px;
+}
