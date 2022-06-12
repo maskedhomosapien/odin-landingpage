@@ -60,14 +60,18 @@ color: #F9FAF8;
 .subtext{
     display: flex;
     margin-bottom: 100px;
-    margin-top: 40px;
+    margin-top: ;
     gap: 20px;
+    margin: 40px 100px 100px 100px;
+    text-align: center;
 }
 .second .intro {
     max-width: 300px;
 } 
 .image img{
     border-style: solid;
-    height: ;
-    border-color: blue;
+    height: 120px;
+    width: 120px;
+    border-radius: 13px;
+    border-color: #3882F6;
 }
