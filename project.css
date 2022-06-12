@@ -99,9 +99,12 @@ font-weight: 300;
     display: flex;
     background: #3882F6;
     margin: 70px auto;
-    width: 82i0px;
+    width: 820px;
     justify-content: center;
     align-items: center;
+    padding: 15px;
+    border-radius: 10px;
+    gap: 100px;
 }
 .signup {
     display: block;
@@ -111,5 +114,12 @@ font-weight: 300;
     background: #3882F6;
     color: white;
     border-color: white;
+}
+
+.signtext {
+    color: #F9FAF8;
+}
+.big {
+    font-size: 25px;
 }
 
