@@ -85,3 +85,7 @@ padding: 140px 320px;
 .one {
 font-size: 36px;
 }
+
+.two {
+    display: flex;
+}
