@@ -94,3 +94,22 @@ font-weight: 300;
     font-size: 22px;
     font-weight: bold;
 }
+
+.fourth {
+    display: flex;
+    background: #3882F6;
+    margin: 70px auto;
+    width: 82i0px;
+    justify-content: center;
+    align-items: center;
+}
+.signup {
+    display: block;
+    width: 90px;
+    height: 40px;
+    border-radius: 8px;
+    background: #3882F6;
+    color: white;
+    border-color: white;
+}
+
