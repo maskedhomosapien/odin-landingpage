@@ -59,11 +59,10 @@ color: #F9FAF8;
 
 .subtext{
     display: flex;
-    margin-bottom: 100px;
-    margin-top: ;
     gap: 20px;
     margin: 40px 100px 100px 100px;
     text-align: center;
+    padding: 0px 230px;
 }
 .second .intro {
     max-width: 300px;
